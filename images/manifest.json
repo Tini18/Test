@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://Tini18.github.io/Test/images/IMG_7089/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "IMG_7089"
+                ]
+            },
+            "height": 3024,
+            "width": 4032,
+            "items": [
+                {
+                    "id": "https://Tini18.github.io/Test/images/IMG_7089/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Tini18.github.io/Test/images/IMG_7089/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Tini18.github.io/Test/images/IMG_7089/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 126,
+                                                "height": 95
+                                            },
+                                            {
+                                                "width": 252,
+                                                "height": 189
+                                            },
+                                            {
+                                                "width": 504,
+                                                "height": 378
+                                            },
+                                            {
+                                                "width": 1008,
+                                                "height": 756
+                                            },
+                                            {
+                                                "width": 2016,
+                                                "height": 1512
+                                            },
+                                            {
+                                                "width": 4032,
+                                                "height": 3024
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4032,
+                                        "@id": "https://Tini18.github.io/Test/images/IMG_7089",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3024,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Tini18.github.io/Test/images/IMG_7089/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Tini18.github.io/Test/images/07f4eb4b28d82320ea5d584eec0b841d/canvas/",
             "type": "Canvas",
             "label": {
